@@ -230,31 +230,6 @@ The dashboard uses Tailwind CSS for styling. Key files to modify:
    - Ensure backend is running on port 8000
    - Check CORS settings in `backend/app.py`
 
-### Getting Help
-
-- Check the browser console for errors
-- Check the backend terminal for error messages
-- Ensure all environment variables are set correctly
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the troubleshooting section above
-2. Open an issue on GitHub
-3. Review the API documentation
 
 ---
 
